@@ -15,3 +15,10 @@
 ---
 
 ### :woman_technologist: About Me :
+I am a computer engineering student from Turkey.
+
+- :telescope: I have experience in C, C++, Python, Java languages.
+
+- :seedling: I am currently learning PHP/Laravel
+
+- :zap: In my free time, I like to follow developments in Artificial Intelligence, solve Leetcode Problems, and develop my website. 
